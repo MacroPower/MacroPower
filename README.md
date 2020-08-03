@@ -1,7 +1,12 @@
 <h1 align="center">Hello there, I'm Jacob Colvin</h1>
 <h3 align="center">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=macropower" alt="macropower" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=macropower" alt="macropower" />
+  <a href="https://stackoverflow.com/users/4868262" target="blank">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262">
+  </a>
+</p>
 
 - 🔭 I’m currently working on **[OmegaGraf](https://github.com/OmegaGraf/OmegaGraf)**
 - 🌱 I’m currently learning **Go** and **Jsonnet**
