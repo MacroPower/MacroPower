@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm Jacob Colvin</h1>
-<h3 align="center">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+<h1 align="left">👋 Hello there! I'm Jacob Colvin</h1>
+<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=macropower" alt="macropower" />
@@ -8,14 +8,14 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **[OmegaGraf](https://github.com/OmegaGraf/OmegaGraf)**
+- 🏢 I'm currently working at **[84.51°](https://github.com/8451)**
 - 🌱 I’m currently learning **Go** and **Jsonnet**
 - 💬 I like to talk about **Homelabbing**, **Prometheus**, and **Oxford Commas**
 - 📫 Ask me anything on my **[issues page](https://github.com/MacroPower/MacroPower/issues)**
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
@@ -32,12 +32,18 @@
   <img src="https://jsonnet.org/img/isologo.svg" alt="jsonnet" width="20" height="20"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true" alt="macropower" />
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/colvinjm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="colvinjm" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/4868262" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4868262" height="20" width="20" /></a>
-<a href="https://reddit.com/u/macropower" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="macropower" height="20" width="20" /></a>
+<p align="left">
+  <a href="https://linkedin.com/in/colvinjm" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="colvinjm" height="20" width="20" />
+  </a>
+  <a href="https://stackoverflow.com/users/4868262" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4868262" height="20" width="20" />
+  </a>
+  <a href="https://reddit.com/u/macropower" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="macropower" height="20" width="20" />
+  </a>
 </p>
