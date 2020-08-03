@@ -2,9 +2,17 @@
 <h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=macropower" alt="macropower" />
+  <a href="https://github.com/MacroPower/MacroPower" target="blank">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="macropower" />
+  </a>
   <a href="https://stackoverflow.com/users/4868262" target="blank">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation">
+  </a>
+  <a href="https://reddit.com/u/macropower" target="blank">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma">
+  </a>
+  <a href="https://github.com/MacroPower/MacroPower" target="blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green">
   </a>
 </p>
 
@@ -12,6 +20,7 @@
 - 🌱 I’m currently learning **Go** and **Jsonnet**
 - 💬 I like to talk about **Homelabbing**, **Prometheus**, and **Oxford Commas**
 - 📫 Ask me anything on my **[issues page](https://github.com/MacroPower/MacroPower/issues)**
+- 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/colvinjm)**
 
 <br>
 
@@ -34,16 +43,4 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true" alt="macropower" />
-</p>
-
-<p align="left">
-  <a href="https://linkedin.com/in/colvinjm" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="colvinjm" height="20" width="20" />
-  </a>
-  <a href="https://stackoverflow.com/users/4868262" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4868262" height="20" width="20" />
-  </a>
-  <a href="https://reddit.com/u/macropower" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="macropower" height="20" width="20" />
-  </a>
 </p>
