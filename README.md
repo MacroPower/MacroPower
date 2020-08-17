@@ -44,3 +44,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true" alt="macropower" />
 </p>
+
+<!--START_SECTION:ascii_graph-->
+<!--END_SECTION:ascii_graph-->
