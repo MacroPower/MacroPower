@@ -45,5 +45,26 @@
   <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true" alt="macropower" />
 </p>
 
+<h2>Coding Activity (Past 7 Days)</h2>
+
+<!-- prettier-ignore-start -->
 <!--START_SECTION:ascii_graph-->
+
+```
+   69.3 hr  ┤                                                                                                  ╭ 
+   68.6 hr  ┤                                                                                                  │ 
+   68.0 hr  ┤                                                                                                 ╭╯ 
+   67.3 hr  ┤                                                   ╭─────────────────────────────────────────────╯  
+   66.6 hr  ┤                                                 ╭─╯                                                
+   66.0 hr  ┤                                 ╭───────────────╯                                                  
+   65.3 hr  ┤         ╭───────────────────────╯                                                                  
+   64.6 hr  ┤        ╭╯                                                                                          
+   64.0 hr  ┤      ╭─╯                                                                                           
+   63.3 hr  ┤      │                                                                                             
+   62.7 hr  ┤     ╭╯                                                                                             
+   62.0 hr  ┤     │                                                                                              
+   61.3 hr  ┼─────╯                                                                                              
+```
+
 <!--END_SECTION:ascii_graph-->
+<!-- prettier-ignore-end -->
