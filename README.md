@@ -31,7 +31,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true" alt="macropower" />
 </p>
 
-<h2>My Favorite Tech</h2>
+<h2>Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
 
 <table id="macropower-tech">
   <tr>
@@ -148,9 +150,9 @@
   </tr>
 </table>
 
-<h2 align="left">Total Coding Activity</h2>
+<h2 align="left">Coding Activity</h2>
 
-> Since 2020-07-19. Updated every 1 hour.
+> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
