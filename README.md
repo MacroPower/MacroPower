@@ -48,7 +48,7 @@
 <h2>Coding Activity (Past 7 Days)</h2>
 
 <!-- prettier-ignore-start -->
-<!--START_SECTION:ascii_graph-->
+<!-- START_SECTION:ascii_graph -->
 
 ```
    69.3 hr  ┤                                                                                                  ╭ 
@@ -66,5 +66,5 @@
    61.3 hr  ┼─────╯                                                                                              
 ```
 
-<!--END_SECTION:ascii_graph-->
+<!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->

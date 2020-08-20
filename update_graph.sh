@@ -10,8 +10,8 @@ GRAPH=$(prometheus_ascii \
 
 echo -e "\n\`\`\`\n$GRAPH\n\`\`\`\n" >insert_file
 
-COMMENT_START="<!--START_SECTION:ascii_graph-->"
-COMMENT_END="<!--END_SECTION:ascii_graph-->"
+COMMENT_START="<!-- START_SECTION:ascii_graph -->"
+COMMENT_END="<!-- END_SECTION:ascii_graph -->"
 
 NEW_README=$(sed -e "/$COMMENT_START/,/$COMMENT_END/{ /$COMMENT_START/{p; r insert_file
         }; /$COMMENT_END/p; d }" README.md)
