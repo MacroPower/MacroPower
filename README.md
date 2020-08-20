@@ -1,4 +1,4 @@
-<h1 align="left">:wave: Hello there! I'm Jacob Colvin</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
 <h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
 
 <p align="left">
@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true" alt="macropower" align="right" />
+</a>
+
 - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently learning **Go**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
@@ -27,11 +31,7 @@
 
 <br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true" alt="macropower" />
-</p>
-
-<h2>Favorite Tech</h2>
+<h2 align="left">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
