@@ -6,5 +6,9 @@
     "Versatilist",
     "macropower",
     "redhat"
-  ]
+  ],
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
+  "editor.renderIndentGuides": true,
+  "files.eol": "\n"
 }
