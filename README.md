@@ -45,7 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true" alt="macropower" />
 </p>
 
-<h2>Coding Activity (Past 7 Days)</h2>
+<h2>Total Coding Activity</h2>
+
+> Since 2020-07-19. Updated every 1 hour.
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
