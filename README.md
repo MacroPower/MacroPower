@@ -6,13 +6,13 @@
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="macropower" />
   </a>
   <a href="https://stackoverflow.com/users/4868262" target="blank">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://reddit.com/u/macropower" target="blank">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
   </a>
   <a href="https://github.com/MacroPower/MacroPower" target="blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
   </a>
 </p>
 
