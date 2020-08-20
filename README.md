@@ -5,6 +5,9 @@
   <a href="https://github.com/MacroPower/MacroPower" target="blank">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="macropower" />
   </a>
+  <a href="https://macropower.readthedocs.io/en/latest" target="blank">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+  </a>
   <a href="https://stackoverflow.com/users/4868262" target="blank">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
   </a>
