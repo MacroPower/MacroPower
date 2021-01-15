@@ -17,6 +17,9 @@
   <a href="https://github.com/MacroPower?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
   </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
 </p>
 
 <a href="#macropower-title">
