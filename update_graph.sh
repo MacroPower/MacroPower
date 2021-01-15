@@ -16,8 +16,8 @@ echo -e "\n\`\`\`" >>insert_file
 echo -e "$GRAPH" >>insert_file
 
 # Append X axis labels. TODO: add support to asciigraph
-echo -e "            ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬──────────────┤ " >>insert_file
-echo -e "           -7d           -6d           -5d           -4d           -3d           -2d           -1d            now" >>insert_file
+echo -e "             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ " >>insert_file
+echo -e "            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now" >>insert_file
 
 echo -e "\`\`\`\n" >>insert_file
 
