@@ -39,19 +39,19 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/go-original.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Golang
     </td>
@@ -63,31 +63,31 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
@@ -95,7 +95,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -107,13 +107,13 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/redhat/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
       </a>
       <br>RHEL
     </td>
@@ -125,7 +125,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
