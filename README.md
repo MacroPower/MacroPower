@@ -23,7 +23,7 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
@@ -161,19 +161,19 @@
 <!-- START_SECTION:ascii_graph -->
 
 ```
-   523.4 hr  ┤                                                                                               ╭─── 
-   522.1 hr  ┤                                                                                              ╭╯    
-   520.7 hr  ┤                                                                                      ╭───────╯     
-   519.4 hr  ┤                                                                                   ╭──╯             
-   518.0 hr  ┤                                                                                ╭──╯                
-   516.7 hr  ┤                                                                               ╭╯                   
-   515.3 hr  ┤                                                                     ╭─────────╯                    
-   514.0 hr  ┤                                                    ╭────────────────╯                              
-   512.6 hr  ┤                                                   ╭╯                                               
-   511.3 hr  ┤                                       ╭───────────╯                                                
-   509.9 hr  ┤             ╭─────────────────────────╯                                                            
-   508.6 hr  ┤      ╭──────╯                                                                                      
-   507.2 hr  ┼──────╯                                                                                             
+  1021.2 hr  ┤                                                                                           ╭─────── 
+  1018.9 hr  ┤                                                                         ╭─────────────────╯        
+  1016.7 hr  ┤                                                                        ╭╯                          
+  1014.5 hr  ┤                                                                      ╭─╯                           
+  1012.3 hr  ┤                                                          ╭───────────╯                             
+  1010.0 hr  ┤                                                         ╭╯                                         
+  1007.8 hr  ┤                                                      ╭──╯                                          
+  1005.6 hr  ┤                                                  ╭───╯                                             
+  1003.4 hr  ┤                                           ╭──────╯                                                 
+  1001.1 hr  ┤                                         ╭─╯                                                        
+   998.9 hr  ┤                                   ╭─────╯                                                          
+   996.7 hr  ┤                     ╭─────────────╯                                                                
+   994.5 hr  ┼─────────────────────╯                                                                              
              ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
             -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
 ```
