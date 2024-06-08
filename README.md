@@ -35,59 +35,77 @@
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="my-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools and Languages that I work with.
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#my-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#my-tech">
+        <img src="https://www.linuxmint.com/img/headers/logo.png" width="48" height="48" alt="Linux Mint" />
       </a>
-      <br>Kubernetes
+      <br>Linux Mint
     </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+    <td align="center" width="96">
+      <a href="#my-tech">
+        <img src="https://d33wubrfki0l68.cloudfront.net/66e1d9d40e6b2f8de117d1f51bfc2e12b10cb4a4/cb2ea/img/logos/nestjs.svg" width="48" height="48" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
+      <a href="#my-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="48" height="48" alt="ExpressJS" />
+      </a>
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+      <a href="#my-tech">
+        <img src="https://nodejs.org/static/images/logo.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#my-tech">
+        <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#my-tech">
+        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#my-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#my-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+    <td align="center" width="96">
+      <a href="#my-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="48" height="48" alt="Redis" />
       </a>
-      <br>Debian
+      <br>Redis
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      <a href="#my-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Grafana
+      <br>JavaScript
     </td>
   </tr>
 </table>
